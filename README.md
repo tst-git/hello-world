@@ -1,2 +1,7 @@
 # hello-world
-Just another fine repository
+
+Moro,
+
+This is Teppo creating first branch in GitHub.
+
+See you later!
